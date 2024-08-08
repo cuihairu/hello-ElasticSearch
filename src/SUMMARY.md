@@ -71,5 +71,5 @@
 	    - [数据可视化和 BI](cases/data-visualization-bi.md)
 - [第7部分：故障排除](troubleshooting/README.md)
 	- [常见问题和解决方案](troubleshooting/common-issues-solutions.md)
-	  - [性能瓶颈排查](troubleshooting/performance-bottleneck-analysis.md)
-	  - [异常处理](troubleshooting/exception-handling.md)
+	- [性能瓶颈排查](troubleshooting/performance-bottleneck-analysis.md)
+	- [异常处理](troubleshooting/exception-handling.md)
